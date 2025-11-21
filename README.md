@@ -1,6 +1,6 @@
 Welcome! Please see my portfolio attached as a PDF
 
-Hyperlinks in the PDF can only be accessed when opened by PDF Viewer. For Convenience they are listed below:
+Hyperlinks in the PDF can only be accessed when opened by PDF Viewer. For convenience they are listed below:
 
 - GitHub: https://github.com/IshmanM
 - Semantic Segmentation project repository: https://github.com/IshmanM/UNET-semantic-segmentation
